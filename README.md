@@ -1,4 +1,4 @@
 t3
 ==
 
-ETCT3 project
+ETC T3 project
